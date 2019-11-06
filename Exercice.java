@@ -22,7 +22,7 @@ public class Exercice
  Exercice x = new Exercice();
  n++;
   System.out.println("la valeur de n after calling constructor x step 0 :"+n);
- x.affiche();
+// x.affiche(); comment line from machine 2
  Exercice y = new Exercice();
  n++;
  x.affiche();
