@@ -11,9 +11,9 @@ public class Exercice
  }
 
  private void affiche(){
- System.out.println(n + msg);
+ //System.out.println(n + msg);
  if (!msg.equals("Vert")){
- msg = "Vert";
+ msg = "purple";
  new Exercice();
  }
  }
